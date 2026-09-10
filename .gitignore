@@ -1,0 +1,10 @@
+# Compiled program
+output/
+
+main.dSYM/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
